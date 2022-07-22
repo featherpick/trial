@@ -5,7 +5,7 @@
 ##### Readme
 ###### Readme
 
-![Alt text](./)
+![Alt text](./myfolder/a.svg)
 
 ``
 ```
